@@ -6,17 +6,17 @@ METHODS from: 15.2018-bioinformatics-stanford-Decagon or other embedding methods
 
 STEPS:   
 
-1, data preprocess for knowledge graph, to integtate as much information as possible  
+1: data preprocess for knowledge graph, to integtate as much information as possible  (Oct 15)
    drug-target graph (target is protein)  
    protein-protein graph  
    drug-drug graph  
    ....  
    
 
-2, knowledge graph embedding for features  
+2: knowledge graph embedding for features  (Oct 30)
    network embedding here: https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007   
    knowledge graphs have different kinds of edges, the embedding is more difficult:          https://ieeexplore.ieee.org/iel7/69/4358933/08047276.pdf   
 
-3, machine learning methods on the features to predict drug-drug combination  
+3: machine learning methods on the features to predict drug-drug combination  (Nov 20)
 
-4, interpretation/verification of the results, paper review   
+4: interpretation/verification of the results, paper review   (Nov 30)
