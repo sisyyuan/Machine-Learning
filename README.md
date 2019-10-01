@@ -19,4 +19,4 @@ STEPS:
 
 3: machine learning methods on the features to predict drug-drug combination  (Nov 20)  
 
-4: interpretation/verification of the results, paper review   (Nov 30)  
+4: interpretation/verification of the results, paper review, poster   (Nov 30)  
