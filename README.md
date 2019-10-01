@@ -1,7 +1,7 @@
 # Machine-Learning  
 
 IDEA: to predict if two drugs can be combined for various diseases  
-DATA from:15.2018-bioinformatics-stanford-Decagon & 8.2019-NC-Network-based prediction of drug combinations  
+DATA from:  15.2018-bioinformatics-stanford-Decagon &  8.2019-NC-Network-based prediction of drug combinations  
 METHODS from: 15.2018-bioinformatics-stanford-Decagon or other embedding methods  
 
 STEPS:   
