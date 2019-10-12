@@ -10,7 +10,7 @@ STEPS:
 
    1, knowledge graph for the project is in /ProjectData  
    2, drug combinations is from /DrugCombination2019  
-   3, basic knowledge graph is from /DTI_rimodel_kg_data 
+   3, basic knowledge graph is from /DTI_rimodel_kg_data   
    4, additional drug-disease, protein-disease and protein-protein interaction are from /DTI2017   
    
 
