@@ -6,10 +6,11 @@ METHODS from: 15.2018-bioinformatics-stanford-Decagon or other embedding methods
 
 STEPS:   
 
-1: data preprocess for knowledge graph, to integtate as much information as possible  (Oct 15)  
-   drug combinations is from /DrugCombination  
-   basic knowledge is from /DTI  
-   drug-disease, protein-disease and protein-protein interaction are from /DTI2017  
+1: data preprocess for knowledge graph, to integtate as much information as possible  (Oct 15)
+   1, knowledge graph for the project is in /ProjectData  
+   2, drug combinations is from /DrugCombination  
+   3, basic knowledge graph is from /DTI  
+   4, additional drug-disease, protein-disease and protein-protein interaction are from /DTI2017   
    
 
 2: knowledge graph embedding for features  (Oct 30)  
