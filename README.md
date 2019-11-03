@@ -3,6 +3,7 @@
 IDEA: to predict if two drugs can be combined for various diseases  
 DATA from:  15.2018-bioinformatics-stanford-Decagon &  8.2019-NC-Network-based prediction of drug combinations  
 METHODS from: 15.2018-bioinformatics-stanford-Decagon or other embedding methods  
+Writing report on: https://www.overleaf.com/project/5d595e5dbb34bd0cc71c7d9b    
 
 STEPS:   
 
